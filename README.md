@@ -69,7 +69,7 @@
 
 ## 📄 Copyright Notice
 
-© 2024–2026 Geonwoo Jo. All Rights Reserved.
+© 2026 Geonwoo Jo. All Rights Reserved.
 
 This repository is made publicly available solely for portfolio demonstration purposes and is not open source.
 
