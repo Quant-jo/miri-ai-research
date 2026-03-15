@@ -67,6 +67,12 @@
 
 <br>
 
-## 📄 라이선스
+## 📄 Copyright Notice
 
-본 레포지토리의 코드는 포트폴리오 시연 목적으로 공개되었습니다.
+© 2024–2026 Geonwoo Jo. All Rights Reserved.
+
+This repository is made publicly available solely for portfolio demonstration purposes and is not open source.
+
+Except as expressly permitted by applicable law and by GitHub’s technical and service-related rules for public repositories, no part of this repository, including without limitation its source code, documentation, images, visual assets, UI/UX elements, and other contents, may be copied, modified, distributed, publicly transmitted, used to create derivative works, used for commercial purposes, or used for AI/ML training or dataset construction, without the prior written consent of the copyright holder.
+
+License inquiries: dlsrhddyd999@gmail.com
